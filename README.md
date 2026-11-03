@@ -1,313 +1,166 @@
-<h2 align="center">👋 Hi, I'm <b>Pramod Gangwar</b></h2>
+<h1 align="center">Hi 👋, I'm Pramod Gangwar</h1>
+<h3 align="center">BCA Student | Full-Stack Web Developer | Generative AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Soumya031&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=PramodGangwar9336&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Full-Stack+Developer;AI+%26+Machine+Learning+Engineer;Generative+AI+%7C+RAG+%7C+AI+Agents;Backend+%7C+AI+Systems;Cybersecurity+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Building+with+React+and+Node.js;Learning+Data+Structures+%26+Algorithms;Exploring+Generative+AI+and+RAG;Always+Learning+and+Building" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 💻 Full-Stack Developer with experience in **MERN, React, Node.js, Python, and FastAPI**
-* 🤖 Focused on **AI Engineering, Machine Learning, Generative AI, RAG, and AI Agents**
-* 🧠 Strong foundation in **Data Structures, Algorithms, OOP, Java, Python, and SQL**
-* 🔧 Experienced in building **AI-powered web applications and production-oriented backend systems**
-* ☁️ Exploring **AWS, Azure, Google Cloud, Docker, Kubernetes, and scalable AI infrastructure**
-* 🚀 Interested in building practical products that combine **AI + Software Engineering**
-* 🌱 Continuously learning and experimenting with modern AI technologies
-* 📫 Portfolio: **[My Portfolio](https://graceful-monstera-abc6ec.netlify.app/)**
+- 🎓 I'm a **BCA student** interested in software development and technology.
+- 💻 I build web applications using **JavaScript, TypeScript, React, Node.js, Express, and MongoDB**.
+- 🧠 I practice **Data Structures and Algorithms** using C++ and solve problems on LeetCode and GeeksforGeeks.
+- 🤖 I'm exploring **Generative AI, LLM applications, and Retrieval-Augmented Generation (RAG)**.
+- 🔧 I enjoy developing backend APIs, integrating databases, and working on end-to-end projects.
+- ☁️ I'm learning **Linux, Docker, deployment, and DevOps fundamentals**.
+- 🚀 My goal is to become a stronger software engineer by consistently learning, building, and improving.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## 💻 Programming Languages
-
+### Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-## 🌐 Frontend Development
-
+### Frontend Development
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-## ⚙️ Backend Development
-
+### Backend Development
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 </p>
 
-## 🤖 AI / Machine Learning
-
+### Databases & Storage
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-111111?style=flat&logo=ultralytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
 </p>
 
-### 🧠 Generative AI
-
+### AI & Generative AI — Exploring
 <p>
-  <img src="https://img.shields.io/badge/LLMs-412991?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-6C47FF?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-111111?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embeddings-FF6F00?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector_Databases-4285F4?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-8E44AD?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-0F9D58?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-6C47FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white" />
 </p>
 
-## 📱 App Development
-
+### Tools & DevOps Learning
 <p>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-</p>
-
-## 🗄️ Databases
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat&logoColor=white" />
-</p>
-
-## ☁️ Cloud & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
-</p>
-
-## 🧰 Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Projects
 
-## ⚖️ LegalOS
+### 📁 Video & Image Upload Platform
 
-**AI-powered legal technology platform designed around Indian legal workflows.**
+A full-stack application for uploading and managing media files.
 
-* 🤖 AI-powered legal assistance
-* 📚 Legal document analysis
-* 🔎 RAG-based knowledge retrieval
-* 🧠 LLM-powered question answering
-* 👨‍⚖️ Designed for lawyers, advocates, students, law firms and businesses
-* 🌐 **Live:** [LegalOS](https://legal-ai-lilac.vercel.app/)
-* 💻 **Repository:** [GitHub](https://github.com/soumya031/Legal-AI-)
+- Built a frontend and backend with a separate API server.
+- Integrated **Cloudinary** for media storage and **MongoDB** for metadata.
+- Worked with authentication, upload routes, and webhook integration.
 
-**Tech:** `Next.js` `Python` `FastAPI` `LLM` `RAG` `Vector Database` `Firebase`
+**Tech:** `React` `Node.js` `Express` `MongoDB` `Cloudinary`
 
----
+### 🤖 Jarvis Desktop Assistant
 
-## 🏋️ AuraMotion AI
+A Python desktop assistant project focused on voice interaction.
 
-**AI-powered movement intelligence platform for fitness, biomechanics and combat training.**
+- Built a desktop interface with **CustomTkinter**.
+- Experimented with a local language model using **Ollama**.
+- Added text-to-speech functionality with **Edge TTS**.
 
-* 🎥 Real-time camera processing
-* 🧍 Human pose detection
-* 🏋️ Exercise recognition
-* 🔢 Rep counting
-* 📊 Workout analytics
-* 🧠 Posture analysis
-* ⚡ Real-time movement feedback
-* 🔌 WebSocket-based communication
+**Tech:** `Python` `CustomTkinter` `Ollama` `Edge TTS`
 
-**Tech:** `Next.js` `TypeScript` `FastAPI` `Python` `OpenCV` `MediaPipe` `YOLOv8` `PyTorch` `Firebase` `WebSockets`
+### 🎓 EduRank
 
----
+An education-related web project.
 
-## 🧑‍⚕️ Disease Prediction System
+**Live:** [techpramod.online](https://techpramod.online)
 
-Machine-learning application that predicts potential diseases from user-provided symptoms.
+### 💬 ChatGPT Clone
 
-* Data preprocessing
-* Feature engineering
-* ML model training
-* Model evaluation
-* Prediction interface
+A full-stack chat application inspired by AI chat interfaces.
 
-**Tech:** `Python` `Pandas` `NumPy` `Scikit-learn` `Machine Learning`
+- Built backend APIs with Express and MongoDB.
+- Worked with authentication, chat and message routes.
+- Experimented with connecting an LLM API.
 
-**Repository:**
-[GitHub](https://github.com/soumya031/group-project-for-IPM)
+**Tech:** `React` `Node.js` `Express` `MongoDB` `JWT`
 
 ---
 
-## 🎓 Student Management System
+## 📚 Currently Learning
 
-A Python and MySQL based student management application.
-
-* Student record management
-* Database integration
-* CRUD operations
-* Structured data management
-
-**Tech:** `Python` `MySQL`
-
-**Repository:**
-[GitHub](https://github.com/soumya031/SOUMYADIP-SAHA-J-51-PYTHON-PROJECT)
+- Improving problem-solving skills with **DSA in C++**.
+- Building stronger **React and TypeScript** applications.
+- Learning backend architecture, API design, and system design fundamentals.
+- Exploring **Generative AI, RAG, and LLM-powered applications**.
+- Practicing Linux, Docker, deployment, and DevOps basics.
+- Exploring tools and technologies such as **Redis and Kafka**.
 
 ---
 
-# 🧠 Currently Learning
-
-```text
-AI Engineering
-     │
-     ├── Machine Learning
-     ├── Deep Learning
-     ├── Generative AI
-     ├── LLM Applications
-     ├── RAG Systems
-     ├── AI Agents
-     ├── Tool Calling
-     ├── Multi-Agent Systems
-     └── Production AI Infrastructure
-```
-
----
-
-# 🏗️ AI Engineering Focus
-
-```text
-User
- │
- ▼
-Frontend / Client
- │
- ▼
-API Gateway
- │
- ▼
-AI Application Layer
- │
- ├── RAG Pipeline
- │
- ├── LLM
- │
- ├── AI Agents
- │
- ├── Tool Calling
- │
- └── Memory
- │
- ▼
-Data Layer
- │
- ├── PostgreSQL
- ├── Redis
- ├── Vector Database
- └── Object Storage
- │
- ▼
-Cloud Infrastructure
- │
- ├── Docker
- ├── Kubernetes
- ├── CI/CD
- └── Monitoring
-```
-
----
-
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=soumya031&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya031&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PramodGangwar9336&show_icons=true&theme=tokyonight&hide_border=true" alt="Pramod's GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PramodGangwar9336&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=soumya031&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=PramodGangwar9336&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
 
-# 📈 GitHub Activity
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumya031&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PramodGangwar9336&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
 </p>
 
 ---
 
-# 📫 Let's Connect
+## 📫 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/soumya031">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<a href="mailto:soumyadipsaha743@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<a href="https://www.linkedin.com/in/soumyadip-saha-/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://graceful-monstera-abc6ec.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-
+  <a href="https://github.com/PramodGangwar9336">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://techpramod.online">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
----
-
 <p align="center">
-  ✨ <b>Building intelligent software, one system at a time.</b> ✨
+  <b>Building, learning, and improving — one project at a time. 🚀</b>
 </p>
