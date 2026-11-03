@@ -133,23 +133,8 @@ A full-stack chat application inspired by AI chat interfaces.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PramodGangwar9336&show_icons=true&theme=tokyonight&hide_border=true" alt="Pramod's GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PramodGangwar9336&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PramodGangwar9336&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PramodGangwar9336&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
 </p>
 
 ---
